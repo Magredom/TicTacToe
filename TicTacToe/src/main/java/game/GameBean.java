@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Random;
 
 public class GameBean {
-	private static final int GRID_SIZE = 3;
+	private static final int GRID_SIZE = 4;
 
 	public enum GameState {
 		NULL, O, X;
