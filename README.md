@@ -7,6 +7,7 @@ Para el el microproyecto se utilizó el programa eclipse-workspace - Eclipse IDE
 TICTACTOE es un popular juego de tres rayas. También conocido como ceros y cruces, tres en rayas, cerito cruz, michi, triqui, cuadritos, juego del gato, gato, tateti, totito, triqui traka, etc. Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre una casilla ya jugada. En caso de que el jugador haga trampa el ganador será el otro. Se debe conseguir realizar una línea recta o diagonal por símbolo.
 
 - El juego realizado en el microproyecto contiene una pgina de entrada la cual brinda dos opciones de empezar el juego, la primera opcion consiste en que comiense el usuario y la segunda consiste en que el juego lo empieze el computador.
+
 ![](https://github.com/Magredom/TicTacToe/blob/master/Captura%20desde%202023-04-12%2010-39-08.png?raw=true)
 
 - Cuando el usuario comienza el juego, a este se le asigna el signo "X" y puede marcarla en cualquira de los cuadro, una vez el usuario haya escogido el espacio, el computador continuara el turnoy pondra el signo que le corresponde "o".
