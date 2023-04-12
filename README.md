@@ -26,6 +26,7 @@ TICTACTOE es un popular juego de tres rayas. También conocido como ceros y cruc
 ![](https://raw.githubusercontent.com/Magredom/TicTacToe/bd36f10d2ca38a3b4ea92735ba0ce67496cae3ce/Captura%20desde%202023-04-11%2020-25-45.png)
 
 Uno de los procedimiento que se realizó en el proyecto una vez subido a la nube, fue la modificación del lenguaje, traduciendo el juego completamente al idioma español.
+
 ![](https://github.com/Magredom/TicTacToe/blob/master/Captura%20desde%202023-04-11%2023-18-43.png?raw=true)
 ![](https://raw.githubusercontent.com/Magredom/TicTacToe/bd36f10d2ca38a3b4ea92735ba0ce67496cae3ce/Captura%20desde%202023-04-11%2023-48-36.png)
 ![](https://raw.githubusercontent.com/Magredom/TicTacToe/bd36f10d2ca38a3b4ea92735ba0ce67496cae3ce/Captura%20desde%202023-04-11%2023-49-48.png)
