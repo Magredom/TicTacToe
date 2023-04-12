@@ -42,7 +42,7 @@
 	</table>
 	<c:if test="${winner != null}">
 		<h2>${winner}
-			Gano!
+			Ganó!
 			</h1>
 			<form action="index.jsp" method="post">
 				<input type="submit" name="Replay" value="Jugar De Nuevo"><br />
