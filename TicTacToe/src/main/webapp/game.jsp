@@ -45,7 +45,7 @@
 			Won!
 			</h1>
 			<form action="index.jsp" method="post">
-				<input type="submit" name="Replay" value="Play again"><br />
+				<input type="submit" name="Replay" value="Jugar De Nuevo"><br />
 			</form>
 	</c:if>
 </body>
