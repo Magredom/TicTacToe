@@ -8,7 +8,7 @@
 <title>Tic Tac Toe JUEGO 1</title>
 </head>
 <body>
-	<h1>Tic Tac Toe</h1>
+	<h1>Tic Tac Toe JUEGO</h1>
 	<form action="entryServlet" method="post">
 		<input type="submit" name="User" value="Tú Comienzas"><br /> <input
 			type="submit" name="Computer" value="El computador comienza">
