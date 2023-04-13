@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tic Tac Toe JUEGO</title>
+<title>Tic Tac Toe JUEGO 1</title>
 </head>
 <body>
 	<h1>Tic Tac Toe</h1>
